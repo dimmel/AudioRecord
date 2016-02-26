@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audio Recorder</string>
+    <string name="start">ЗАПИСАТЬ</string>
+    <string name="play">ВОСПРОИЗВЕСТИ</string>
+</resources>
